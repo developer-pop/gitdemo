@@ -1,0 +1,10 @@
+http://drive.google.com/viewerng/viewer?embedded=true&url=https://www.tutorialspoint.com/android/android_tutorial.pdf
+
+
+http://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/developer-pop/gitdemo/blob/master/test/doc.doc
+
+
+https://view.officeapps.live.com/op/view.aspx?src=https://www.tutorialspoint.com/android/android_tutorial.pdf
+
+
+https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/developer-pop/gitdemo/master/test/doc.doc
